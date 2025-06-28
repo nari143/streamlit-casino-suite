@@ -1,0 +1,2 @@
+streamlit
+# Streamlit >=1.10.0 recommended for dark theme and rerun support 
