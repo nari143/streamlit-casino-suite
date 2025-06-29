@@ -21,7 +21,7 @@ An interactive web application featuring multiple casino-style games, built with
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/nari143/streamlit-casino-suite.git
    cd gamble
    ```
 
